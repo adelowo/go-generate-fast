@@ -3,11 +3,11 @@ package main
 import (
 	"os"
 
-	"github.com/oNaiPs/go-generate-fast/src/core/config"
-	"github.com/oNaiPs/go-generate-fast/src/core/generate/base"
-	"github.com/oNaiPs/go-generate-fast/src/core/generate/generate"
-	"github.com/oNaiPs/go-generate-fast/src/logger"
-	"github.com/oNaiPs/go-generate-fast/src/plugin_factory"
+	"github.com/golanglemonade/go-generate-fast/src/core/config"
+	"github.com/golanglemonade/go-generate-fast/src/core/generate/base"
+	"github.com/golanglemonade/go-generate-fast/src/core/generate/generate"
+	"github.com/golanglemonade/go-generate-fast/src/logger"
+	"github.com/golanglemonade/go-generate-fast/src/plugin_factory"
 	"go.uber.org/zap"
 )
 

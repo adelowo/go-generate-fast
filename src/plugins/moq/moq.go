@@ -3,8 +3,8 @@ package plugin_moq
 import (
 	"flag"
 
-	"github.com/oNaiPs/go-generate-fast/src/plugins"
-	"github.com/oNaiPs/go-generate-fast/src/utils/pkg"
+	"github.com/golanglemonade/go-generate-fast/src/plugins"
+	"github.com/golanglemonade/go-generate-fast/src/utils/pkg"
 	"go.uber.org/zap"
 )
 

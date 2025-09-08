@@ -8,8 +8,8 @@ import (
 	"regexp"
 	"strings"
 
+	"github.com/golanglemonade/go-generate-fast/src/plugins"
 	"github.com/jessevdk/go-flags"
-	"github.com/oNaiPs/go-generate-fast/src/plugins"
 	"go.uber.org/zap"
 )
 

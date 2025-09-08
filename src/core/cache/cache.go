@@ -9,12 +9,12 @@ import (
 	"time"
 
 	"github.com/bmatcuk/doublestar/v4"
-	"github.com/oNaiPs/go-generate-fast/src/core/config"
-	"github.com/oNaiPs/go-generate-fast/src/plugins"
-	"github.com/oNaiPs/go-generate-fast/src/utils/copy"
-	"github.com/oNaiPs/go-generate-fast/src/utils/fs"
-	"github.com/oNaiPs/go-generate-fast/src/utils/hash"
-	"github.com/oNaiPs/go-generate-fast/src/utils/str"
+	"github.com/golanglemonade/go-generate-fast/src/core/config"
+	"github.com/golanglemonade/go-generate-fast/src/plugins"
+	"github.com/golanglemonade/go-generate-fast/src/utils/copy"
+	"github.com/golanglemonade/go-generate-fast/src/utils/fs"
+	"github.com/golanglemonade/go-generate-fast/src/utils/hash"
+	"github.com/golanglemonade/go-generate-fast/src/utils/str"
 	"go.uber.org/zap"
 )
 

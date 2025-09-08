@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"regexp"
 
-	"github.com/oNaiPs/go-generate-fast/src/plugins"
+	"github.com/golanglemonade/go-generate-fast/src/plugins"
 	"go.uber.org/zap"
 )
 

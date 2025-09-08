@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/oNaiPs/go-generate-fast/src/core/cache"
+	"github.com/golanglemonade/go-generate-fast/src/core/cache"
 	"github.com/stretchr/testify/assert"
 )
 

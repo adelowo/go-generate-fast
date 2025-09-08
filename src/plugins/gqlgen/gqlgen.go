@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/99designs/gqlgen/codegen/config"
-	"github.com/oNaiPs/go-generate-fast/src/plugins"
+	"github.com/golanglemonade/go-generate-fast/src/plugins"
 	"go.uber.org/zap"
 )
 

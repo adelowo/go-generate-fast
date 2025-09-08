@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/oNaiPs/go-generate-fast/src/plugins"
+	"github.com/golanglemonade/go-generate-fast/src/plugins"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

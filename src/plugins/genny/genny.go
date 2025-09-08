@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/cheekybits/genny/parse"
-	"github.com/oNaiPs/go-generate-fast/src/plugins"
+	"github.com/golanglemonade/go-generate-fast/src/plugins"
 	"go.uber.org/zap"
 )
 

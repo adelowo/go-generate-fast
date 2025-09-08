@@ -3,7 +3,7 @@ package plugin_genny
 import (
 	"testing"
 
-	"github.com/oNaiPs/go-generate-fast/src/plugins"
+	"github.com/golanglemonade/go-generate-fast/src/plugins"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,4 +1,4 @@
-module github.com/oNaiPs/go-generate-fast
+module github.com/golanglemonade/go-generate-fast
 
 go 1.25.1
 
